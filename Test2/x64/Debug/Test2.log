@@ -1,0 +1,6 @@
+﻿  Test2.cpp
+C:\Users\pocke\source\repos\Test2\Test2\Test2.cpp(28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pocke\source\repos\Test2\Test2\Test2.cpp(85): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pocke\source\repos\Test2\Test2\Test2.cpp(91): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\pocke\source\repos\Test2\Test2\Test2.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+  Test2.vcxproj -> C:\Users\pocke\source\repos\Test2\x64\Debug\Test2.exe
