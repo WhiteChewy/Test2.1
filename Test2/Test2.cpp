@@ -58,7 +58,7 @@ public:
 	}
 
 	//Возвращает количество элементов в буфере
-	unsigned int Count() {
+	unsigned int Size() {
 		return count;
 	}
 
