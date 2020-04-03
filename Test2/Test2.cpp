@@ -49,6 +49,7 @@ public:
 			deleted = top->data;
 			top->data = 0;
 			top = top->next;         //теперь первый элемент следующий в очереди.
+			count--;
 			return deleted;
 		}
 		else {
